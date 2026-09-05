@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+technocore_history.jsonl
